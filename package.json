@@ -1,10 +1,10 @@
 {
   "name": "cmacc-example-acct",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sample accounts",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-example-acct.git",
   "author": "Marc Dangeard <marc@dangeard.com>",
   "license": "MIT",
-  "flat" : true
+  "flat": true
 }
