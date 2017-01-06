@@ -1,2 +1,3 @@
 # cmacc-example-acct
-Sample accounts
+
+This library contains sample bank accounts for demo or test documents
