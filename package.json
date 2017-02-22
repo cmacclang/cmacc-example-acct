@@ -1,6 +1,6 @@
 {
   "name": "cmacc-example-acct",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Sample accounts",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-example-acct.git",
